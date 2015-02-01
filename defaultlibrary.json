@@ -1,0 +1,147 @@
+{
+	"libname": "Default Library",
+	"Elevator Music": {
+		"author": "Bensound",
+		"name": "elevatormusic.mp3",
+		"url": "http://www.bensound.com/music/bensound-theelevatorbossanova.mp3",
+		"color": "FFFFFF"
+	},
+	"Going Higher": {
+		"author": "Bensound",
+		"name": "goinghigher.mp3",
+		"url": "http://www.bensound.com/music/bensound-goinghigher.mp3",
+		"color": "FFFFFF"
+	},
+	"Darude - Sandstorm": {
+		"author": "Darude",
+		"name": "darudesandstorm.mp3",
+		"url": "http://dl.soundowl.com/7svz.mp3",
+		"color": "FFFF66"
+	},
+	"Broken Reality": {
+		"author": "Kevin MacLeod",
+		"name": "brokenreality.mp3",
+		"url": "http://incompetech.com/music/royalty-free/mp3-royaltyfree/Broken%20Reality.mp3",
+		"color": "2C5E8F"
+	},
+	"Hyperfun": {
+		"author": "Kevin MacLeod",
+		"name": "hyperfun.mp3",
+		"url": "http://incompetech.com/music/royalty-free/mp3-royaltyfree/Hyperfun.mp3",
+		"color": "F2C983"
+	},
+	"Black Vortex": {
+		"author": "Kevin MacLeod",
+		"name": "blackvortex.mp3",
+		"url": "http://incompetech.com/music/royalty-free/mp3-royaltyfree/Black%20Vortex.mp3",
+		"color": "28284A"
+	},
+	"The Complex": {
+		"author": "Kevin MacLeod",
+		"name": "thecomplex.mp3",
+		"url": "http://incompetech.com/music/royalty-free/mp3-royaltyfree/The%20Complex.mp3",
+		"color": "1EE682"
+	},
+	"Oppressive Gloom": {
+		"author": "Kevin MacLeod",
+		"name": "oppressivegloom.mp3",
+		"url": "http://incompetech.com/music/royalty-free/mp3-royaltyfree/Oppressive%20Gloom.mp3",
+		"color": "574191"
+	},
+	"Unlight": {
+		"author": "Kevin MacLeod",
+		"name": "unlight.mp3",
+		"url": "http://incompetech.com/music/royalty-free/mp3-royaltyfree/Unlight.mp3",
+		"color": "5E5D3B"
+	},
+	"Carefree": {
+		"author": "Kevin MacLeod",
+		"name": "carefree.mp3",
+		"url": "http://incompetech.com/music/royalty-free/mp3-royaltyfree/Carefree.mp3",
+		"color": "FFFF5C"
+	},
+	"Lord of the Land": {
+		"author": "Kevin MacLeod",
+		"name": "lordoftheland.mp3",
+		"url": "http://incompetech.com/music/royalty-free/mp3-royaltyfree/Lord%20of%20the%20Land.mp3",
+		"color": "618065"
+	},
+	"Moonlight Hall": {
+		"author": "Kevin MacLeod",
+		"name": "moonlighthall.mp3",
+		"url": "http://incompetech.com/music/royalty-free/mp3-royaltyfree/Moonlight%20Hall.mp3",
+		"color": "93C2F5"
+	},
+	"The Snow Queen": {
+		"author": "Kevin MacLeod",
+		"name": "thesnowqueen.mp3",
+		"url": "http://incompetech.com/music/royalty-free/mp3-royaltyfree/The%20Snow%20Queen.mp3",
+		"color": "FFFFFF"
+	},
+	"Jalandhar": {
+		"author": "Kevin MacLeod",
+		"name": "jalandhar.mp3",
+		"url": "http://incompetech.com/music/royalty-free/mp3-royaltyfree/Jalandhar.mp3",
+		"color": "E3D329"
+	},
+	"Pamgaea": {
+		"author": "Kevin MacLeod",
+		"name": "pamgaea.mp3",
+		"url": "http://incompetech.com/music/royalty-free/mp3-royaltyfree/Pamgaea.mp3",
+		"color": "15ED68"
+	},
+	"Local Forecast": {
+		"author": "Kevin MacLeod",
+		"name": "localforecast.mp3",
+		"url": "http://incompetech.com/music/royalty-free/mp3-royaltyfree/Local%20Forecast.mp3",
+		"color": "8AB8E6"
+	},
+	"All This": {
+		"author": "Kevin MacLeod",
+		"name": "allthis.mp3",
+		"url": "http://incompetech.com/music/royalty-free/mp3-royaltyfree/All%20This.mp3",
+		"color": "8A2E2E"
+	},
+	"Junkyard Tribe": {
+		"author": "Kevin MacLeod",
+		"name": "junkyardtribe.mp3",
+		"url": "http://incompetech.com/music/royalty-free/mp3-royaltyfree/Junkyard%20Tribe.mp3",
+		"color": "754719"
+	},
+	"Cut and Run": {
+		"author": "Kevin MacLeod",
+		"name": "cutandrun.mp3",
+		"url": "http://incompetech.com/music/royalty-free/mp3-royaltyfree/Cut%20and%20Run.mp3",
+		"color": "AC1919"
+	},
+	"Failing Defence": {
+		"author": "Kevin MacLeod",
+		"name": "failingdefence.mp3",
+		"url": "http://incompetech.com/music/royalty-free/mp3-royaltyfree/Failing%20Defense.mp3",
+		"color": "853333"
+	},
+	"Movement Proposition": {
+		"author": "Kevin MacLeod",
+		"name": "movementproposition.mp3",
+		"url": "http://incompetech.com/music/royalty-free/mp3-royaltyfree/Movement%20Proposition.mp3",
+		"color": "C9C945"
+	},
+	"Hitman": {
+		"author": "Kevin MacLeod",
+		"name": "hitman.mp3",
+		"url": "http://incompetech.com/music/royalty-free/mp3-royaltyfree/Hitman.mp3",
+		"color": "26559A"
+	},
+	"Rap God": {
+		"author": "Eminem",
+		"name": "rapgod.mp3",
+		"url": "http://bbe.dindon.mn/music/Eminem%20-%20Rap%20God%20-%20BoldErdene.Dindon.mn.mp3",
+		"color": "26669A"
+	},
+	"Summon the Rawk": {
+		"author": "Kevin MacLeod",
+		"name": "summontherawk.mp3",
+		"url": "http://incompetech.com/music/royalty-free/mp3-royaltyfree/Summon%20the%20Rawk.mp3",
+		"color": "FF4800"
+	}
+}
